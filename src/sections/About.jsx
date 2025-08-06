@@ -127,7 +127,7 @@ const About = () => {
         };
 
         if (cfRef.current) animateCount(cfRef.current, 1100);
-        if (ccRef.current) animateCount(ccRef.current, 1400);
+        if (ccRef.current) animateCount(ccRef.current, 1451);
 
     }, { scope: sectionRef });
 
