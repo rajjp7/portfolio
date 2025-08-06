@@ -9,6 +9,7 @@ import { Github, ExternalLink } from 'lucide-react';
 import Synctask from '../imgs/Synctask.png';
 
 
+
 gsap.registerPlugin(ScrollTrigger, Flip);
 
 const allProjectsData = [
