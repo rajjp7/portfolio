@@ -39,8 +39,8 @@ const allProjectsData = [
         title: "Portfolio Website",
         desc: "A full-featured MERN stack e-commerce site with a modern UI, cart functionality, secure checkout, and an admin dashboard.",
         tags: ["React","Tailwind CSS","GSAP","THREE.js","Firebase"],
-        github: "https://github.com/yourusername/ecommerce",
-        live: "https://ecommerce-demo.live",
+        github: "https://github.com/rajjp7/portfolio",
+        live: "https://rajjp7-geytxvkf0-rajs-projects-105c53fa.vercel.app/",
         image: "https://placehold.co/600x400/111827/facc15?text=Portfolio+Website"
     }
     
