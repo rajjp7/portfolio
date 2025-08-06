@@ -6,7 +6,8 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Flip } from 'gsap/Flip';
 import { Github, ExternalLink } from 'lucide-react';
-import SyncTaskimg from '../imgs/Synctask.png';
+import Synctask from '../imgs/Synctask.png';
+
 
 gsap.registerPlugin(ScrollTrigger, Flip);
 
@@ -19,7 +20,7 @@ const allProjectsData = [
         tags: ["React","Taliwind CSS",],
         github: "https://github.com/rajjp7/SyncTask",
         live: "https://sync-task-eight.vercel.app/",
-        image: SyncTaskimg
+        image: Synctask
     },
  {
         id: 1,
