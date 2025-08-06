@@ -6,7 +6,7 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Flip } from 'gsap/Flip';
 import { Github, ExternalLink } from 'lucide-react';
-import Synctask from '../imgs/Synctask.png';
+import Synctask from '../imgs/SyncTask.png';
 
 
 
