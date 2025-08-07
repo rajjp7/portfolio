@@ -1,12 +1,36 @@
-# React + Vite
+# Raj Patil — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern developer portfolio showcasing my projects, skills, and journey in Full Stack and AI/ML development.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Frontend: React.js, Tailwind CSS, GSAP, Three.js  
+- Backend:  Firebase  
+- Tools: Git, GitHub, Vercel
 
-## Expanding the ESLint configuration
+## Sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Home: Animated hero with 3D background  
+- About: Brief intro and interests  
+- Projects: Full Stack and AI/ML projects with GitHub + Live links  
+- Contact: Firebase-powered contact form
+
+## Features
+
+- Fully responsive design  
+- Scroll-based animations  
+- 3D visuals with Three.js  
+- Real-time message storage via Firebase  
+- Clean, modern React architecture
+
+## In Progress
+
+- Blog section  
+- Dark/light mode toggle  
+- Accessibility and SEO improvements
+
+## Live Demo
+
+[View Portfolio](https://rajjp7.vercel.app/)  
+
+

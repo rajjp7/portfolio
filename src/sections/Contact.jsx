@@ -225,7 +225,6 @@ const Contact = () => {
                         <a href="https://www.linkedin.com/in/rajjp07" target="_blank" rel="noopener noreferrer" className="social-icon text-slate-400 cursor-pointer"><Linkedin /></a>
                         <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="social-icon text-slate-400 cursor-pointer"><Twitter /></a>
                     </div>
-                    <p className="text-sm">Made with ❤️ by Raj</p>
                 </div>
             </footer>
         </>
