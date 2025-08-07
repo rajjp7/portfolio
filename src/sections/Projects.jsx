@@ -7,6 +7,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Flip } from 'gsap/Flip';
 import { Github, ExternalLink } from 'lucide-react';
 import Synctask from '../imgs/SyncTask.png';
+import Portfolio from '../imgs/portfolio.png';
 
 
 
@@ -41,9 +42,8 @@ const allProjectsData = [
         tags: ["React","Tailwind CSS","GSAP","THREE.js","Firebase"],
         github: "https://github.com/rajjp7/portfolio",
         live: "https://rajjp7.vercel.app/",
-        image: "https://placehold.co/600x400/111827/facc15?text=Portfolio+Website"
+        image: Portfolio
     }
-    
     
 ];
 

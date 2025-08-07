@@ -63,10 +63,10 @@ const Navbar = () => {
         </nav>
 
         <div className="flex items-center space-x-2 md:space-x-4">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-slate-300 hover:text-blue-400 p-2 rounded-full hover:bg-blue-500/10 transition-all duration-300" aria-label="Github Profile">
+          <a href="https://github.com/rajjp7" target="_blank" rel="noopener noreferrer" className="text-slate-300 hover:text-blue-400 p-2 rounded-full hover:bg-blue-500/10 transition-all duration-300" aria-label="Github Profile">
             <Github size={20} />
           </a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-slate-300 hover:text-blue-400 p-2 rounded-full hover:bg-blue-500/10 transition-all duration-300" aria-label="LinkedIn Profile">
+          <a href="https://www.linkedin.com/in/rajjp07/" target="_blank" rel="noopener noreferrer" className="text-slate-300 hover:text-blue-400 p-2 rounded-full hover:bg-blue-500/10 transition-all duration-300" aria-label="LinkedIn Profile">
             <Linkedin size={20} />
           </a>
           <a href="#contact" onClick={(e) => handleSmoothScroll(e, '#contact')} className="hidden sm:flex items-center gap-2 bg-blue-600 text-white font-semibold px-4 py-2 rounded-lg hover:bg-blue-500 transition-all duration-300 shadow-md hover:shadow-blue-500/50">
