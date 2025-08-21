@@ -126,7 +126,7 @@ const About = () => {
             });
         };
 
-        if (cfRef.current) animateCount(cfRef.current, 1100);
+        if (cfRef.current) animateCount(cfRef.current, 1133);
         if (ccRef.current) animateCount(ccRef.current, 1451);
 
     }, { scope: sectionRef });

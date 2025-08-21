@@ -10,7 +10,7 @@ export const LenisProvider = ({ children }) => {
 
   useEffect(() => {
     const newLenis = new Lenis();
-    setLenis(newLenis); // Set the instance in state
+    setLenis(newLenis);
 
     function raf(time) {
       newLenis.raf(time);
