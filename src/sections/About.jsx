@@ -126,7 +126,7 @@ const About = () => {
             });
         };
 
-        if (cfRef.current) animateCount(cfRef.current, 1133);
+        if (cfRef.current) animateCount(cfRef.current, 1253);
         if (ccRef.current) animateCount(ccRef.current, 1451);
 
     }, { scope: sectionRef });
@@ -197,7 +197,7 @@ const About = () => {
                              <div className="relative text-center">
                                 <h5 className="text-2xl text-blue-300 font-bold mb-2">Codeforces</h5>
                                 <p className="text-6xl font-mono text-white font-bold" ref={cfRef}>0</p>
-                                <p className="text-slate-400 mt-2">Newbie</p>
+                                <p className="text-slate-400 mt-2">Pupil</p>
                              </div>
                         </div>
                          <div className="rating-card p-8 bg-slate-900/50 backdrop-blur-lg rounded-2xl border-2 border-indigo-800/50 shadow-lg shadow-indigo-500/10 transition-all duration-300 hover:shadow-2xl hover:shadow-indigo-500/30 hover:border-indigo-400/80 cursor-pointer">

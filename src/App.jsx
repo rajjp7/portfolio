@@ -6,6 +6,7 @@ import Contact from './sections/Contact'
 import TechStack from './sections/TechStack'
 import Layout from './sections/Layout'
 import Preloader from './sections/Preloader'
+import ArgoDashboard from './sections/ArgoDashboard'
 const App = () => {
   return (
     <Layout>
@@ -13,6 +14,7 @@ const App = () => {
       <Hero />
       <About />
       <TechStack />
+      {/* <ArgoDashboard/> */}
       <Projects />
       <Contact />
     </Layout>
